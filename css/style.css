@@ -24,7 +24,8 @@
 }
 
 .card {
-    width: 28%;
+    width: 300px;
+    min-width: 290px;
    
     margin-bottom: 20px;
 }
@@ -64,4 +65,4 @@ img.small {
     align-items: right;
 
 }
-
+  
